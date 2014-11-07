@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="100%"
+   height="100%"
+   viewBox="0 0 512 512"
+   id="svg2"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="xfce4-panel.svg">
+  <sodipodi:namedview
+     pagecolor="#666666"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview12"
+     showgrid="false"
+     inkscape:zoom="0.4609375"
+     inkscape:cx="256"
+     inkscape:cy="256"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <metadata
+     id="metadata172">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs170" />
+  <path
+     d="M 26,0 C 11.603,0 0,11.603 0,26 v 460 c 0,14.397 11.603,26 26,26 h 460 c 14.397,0 26,-11.603 26,-26 V 26 C 512,11.603 500.397,0 486,0 H 26"
+     inkscape:connector-curvature="0"
+     id="path4"
+     style="fill:none" />
+  <g
+     transform="translate(650.63,-69.22)"
+     id="g50"
+     style="line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic" />
+  <g
+     transform="translate(650.63,-69.22)"
+     id="g98"
+     style="line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic" />
+  <g
+     transform="translate(650.63,-69.22)"
+     id="g146"
+     style="font-size:208.33000183px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic" />
+  <path
+     d="M 41,93.69 V 262.6 l 42.22,42.22 c -24,7.07 -41.563,29.27 -41.563,55.56 0,15.982 6.49,30.459 16.969,40.938 l 110.69,110.69 h 316.69 c 14.397,0 26,-11.603 26,-26 v -351.31 l -41,-41 h -430"
+     inkscape:connector-curvature="0"
+     id="path164"
+     style="opacity:0.0" />
+  <path
+     d="M 41,93.7 V 262.58 H 471 V 93.7 H 41 m 58.62,208.77 c -31.985,0 -57.958,25.917 -57.958,57.915 0,31.985 25.974,57.915 57.958,57.915 31.985,0 57.915,-25.917 57.915,-57.9 0,-31.985 -25.917,-57.9 -57.9,-57.9 m 156.38,0 c -31.985,0 -57.9,25.874 -57.9,57.857 0,31.985 25.917,57.915 57.915,57.915 31.985,0 57.915,-25.917 57.915,-57.9 0,-31.985 -25.917,-57.857 -57.9,-57.857 m 156.33,0 c -31.985,0 -57.9,25.874 -57.9,57.857 0,31.985 25.917,57.915 57.915,57.915 31.985,0 57.915,-25.917 57.915,-57.9 0,-31.985 -25.917,-57.857 -57.9,-57.857"
+     inkscape:connector-curvature="0"
+     id="path166"
+     style="fill:#666666" />
+</svg>

@@ -1,0 +1,2045 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="100%"
+   height="100%"
+   viewBox="0 0 512 512"
+   id="svg2">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8">
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter3174">
+      <feGaussianBlur
+         id="feGaussianBlur3176"
+         stdDeviation="1.71" />
+    </filter>
+    <linearGradient
+       x1="45.447727"
+       y1="92.539597"
+       x2="45.447727"
+       y2="7.0165396"
+       id="ButtonShadow"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0058652,0.994169)">
+      <stop
+         id="stop3750"
+         style="stop-color:#000000;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3752"
+         style="stop-color:#000000;stop-opacity:0.58823532"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       x1="45.447727"
+       y1="92.539597"
+       x2="45.447727"
+       y2="7.0165396"
+       id="linearGradient3381"
+       xlink:href="#ButtonShadow"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0058652,0.994169)" />
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter3174-1">
+      <feGaussianBlur
+         id="feGaussianBlur3176-2"
+         stdDeviation="1.71" />
+    </filter>
+    <linearGradient
+       x1="45.447727"
+       y1="92.539597"
+       x2="45.447727"
+       y2="7.0165396"
+       id="ButtonShadow-4"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0058652,0.994169)">
+      <stop
+         id="stop3750-0"
+         style="stop-color:#000000;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3752-9"
+         style="stop-color:#000000;stop-opacity:0.58823532"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       x1="45.447727"
+       y1="92.539597"
+       x2="45.447727"
+       y2="7.0165396"
+       id="linearGradient3381-9"
+       xlink:href="#ButtonShadow-4"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0058652,0.994169)" />
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter3174-2">
+      <feGaussianBlur
+         stdDeviation="1.71"
+         id="feGaussianBlur3176-8" />
+    </filter>
+    <linearGradient
+       x1="45.447727"
+       y1="92.539597"
+       x2="45.447727"
+       y2="7.0165396"
+       id="ButtonShadow-2"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0058652,0.994169)">
+      <stop
+         id="stop3750-9"
+         style="stop-color:#000000;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3752-2"
+         style="stop-color:#000000;stop-opacity:0.58823532"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       x1="45.447727"
+       y1="92.539597"
+       x2="45.447727"
+       y2="7.0165396"
+       id="linearGradient3381-4"
+       xlink:href="#ButtonShadow-2"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0058652,0.994169)" />
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter3174-11">
+      <feGaussianBlur
+         stdDeviation="1.71"
+         id="feGaussianBlur3176-20" />
+    </filter>
+    <linearGradient
+       x1="45.447727"
+       y1="92.539597"
+       x2="45.447727"
+       y2="7.0165396"
+       id="ButtonShadow-8"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0058652,0.994169)">
+      <stop
+         id="stop3750-5"
+         style="stop-color:#000000;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3752-8"
+         style="stop-color:#000000;stop-opacity:0.58823532"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       x1="45.447727"
+       y1="92.539597"
+       x2="45.447727"
+       y2="7.0165396"
+       id="linearGradient3381-43"
+       xlink:href="#ButtonShadow-8"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0058652,0.994169)" />
+    <clipPath
+       id="clipPath11469">
+      <path
+         d="M 26,0 C 11.602648,0 0,11.602648 0,26 l 0,460 c 0,14.39735 11.602648,26 26,26 l 460,0 c 14.39735,0 26,-11.60265 26,-26 L 512,26 C 512,11.602648 500.39735,0 486,0 L 26,0 z"
+         inkscape:connector-curvature="0"
+         id="path11471"
+         style="fill:#3976c4;fill-opacity:1;stroke:none" />
+    </clipPath>
+  </defs>
+  <path
+     d="M 26,0 C 11.602648,0 0,11.602648 0,26 l 0,460 c 0,14.39735 11.602648,26 26,26 l 460,0 c 14.39735,0 26,-11.60265 26,-26 L 512,26 C 512,11.602648 500.39735,0 486,0 L 26,0 z"
+     inkscape:connector-curvature="0"
+     id="rect2986"
+     style="fill:#3976c4;fill-opacity:1;stroke:none" />
+  <text
+     x="-440.66107"
+     y="94.640053"
+     id="text20"
+     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="-440.66107"
+       y="94.640053"
+       id="tspan22" />
+  </text>
+  <text
+     x="87.267517"
+     y="30.625624"
+     transform="scale(4.0128205,0.24920128)"
+     id="text24"
+     style="font-size:46.95375824px;text-anchor:middle;font-family:Arial" />
+  <text
+     x="140.60893"
+     y="14.64005"
+     id="text26"
+     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="140.60893"
+       y="14.64005"
+       id="tspan28" />
+  </text>
+  <text
+     x="232.11679"
+     y="-290.41254"
+     transform="scale(4.0128205,0.24920128)"
+     id="text30"
+     style="font-size:46.95375824px;text-anchor:middle;font-family:Arial" />
+  <text
+     x="-930.97107"
+     y="-166.61993"
+     id="text32"
+     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="-930.97107"
+       y="-166.61993"
+       id="tspan34" />
+  </text>
+  <text
+     x="-34.921841"
+     y="-1017.7589"
+     transform="scale(4.0128205,0.24920128)"
+     id="text36"
+     style="font-size:46.95375824px;text-anchor:middle;font-family:Arial" />
+  <text
+     x="167.0789"
+     y="-383.08994"
+     id="text38"
+     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="167.0789"
+       y="-383.08994"
+       id="tspan40" />
+  </text>
+  <text
+     x="238.71677"
+     y="-1886.4344"
+     transform="scale(4.0128205,0.24920128)"
+     id="text42"
+     style="font-size:46.95375824px;text-anchor:middle;font-family:Arial" />
+  <text
+     x="748.34894"
+     y="-463.0899"
+     id="text44"
+     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="748.34894"
+       y="-463.0899"
+       id="tspan46" />
+  </text>
+  <text
+     x="383.56601"
+     y="-2207.4629"
+     transform="scale(4.0128205,0.24920128)"
+     id="text48"
+     style="font-size:46.95375824px;text-anchor:middle;font-family:Arial" />
+  <text
+     x="359.22894"
+     y="-935.48993"
+     id="text50"
+     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="359.22894"
+       y="-935.48993"
+       id="tspan52" />
+  </text>
+  <text
+     x="286.59647"
+     y="-4103.1133"
+     transform="scale(4.0128205,0.24920128)"
+     id="text54"
+     style="font-size:46.95375824px;text-anchor:middle;font-family:Arial" />
+  <text
+     x="940.48895"
+     y="-1015.4999"
+     id="text56"
+     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="940.48895"
+       y="-1015.4999"
+       id="tspan58" />
+  </text>
+  <text
+     x="431.44577"
+     y="-4424.1514"
+     transform="scale(4.0128205,0.24920128)"
+     id="text60"
+     style="font-size:46.95375824px;text-anchor:middle;font-family:Arial" />
+  <text
+     x="-892.3111"
+     y="399.22015"
+     id="text62"
+     style="font-size:208.33000183px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="-892.3111"
+       y="399.22015"
+       id="tspan64" />
+  </text>
+  <text
+     x="-259.64169"
+     y="97.708183"
+     id="text20-5"
+     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="-259.64169"
+       y="97.708183"
+       id="tspan22-4" />
+  </text>
+  <text
+     x="132.37778"
+     y="42.937477"
+     transform="scale(4.0128205,0.24920128)"
+     id="text24-3"
+     style="font-size:46.95375824px;text-anchor:middle;font-family:Arial" />
+  <text
+     x="321.62833"
+     y="17.708179"
+     id="text26-8"
+     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="321.62833"
+       y="17.708179"
+       id="tspan28-5" />
+  </text>
+  <text
+     x="277.22705"
+     y="-278.10068"
+     transform="scale(4.0128205,0.24920128)"
+     id="text30-5"
+     style="font-size:46.95375824px;text-anchor:middle;font-family:Arial" />
+  <text
+     x="-749.95172"
+     y="-163.5518"
+     id="text32-7"
+     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="-749.95172"
+       y="-163.5518"
+       id="tspan34-7" />
+  </text>
+  <text
+     x="10.188419"
+     y="-1005.447"
+     transform="scale(4.0128205,0.24920128)"
+     id="text36-0"
+     style="font-size:46.95375824px;text-anchor:middle;font-family:Arial" />
+  <text
+     x="348.0983"
+     y="-380.02179"
+     id="text38-6"
+     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="348.0983"
+       y="-380.02179"
+       id="tspan40-6" />
+  </text>
+  <text
+     x="283.82703"
+     y="-1874.1227"
+     transform="scale(4.0128205,0.24920128)"
+     id="text42-0"
+     style="font-size:46.95375824px;text-anchor:middle;font-family:Arial" />
+  <text
+     x="929.36829"
+     y="-460.02179"
+     id="text44-8"
+     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="929.36829"
+       y="-460.02179"
+       id="tspan46-0" />
+  </text>
+  <text
+     x="428.67627"
+     y="-2195.1509"
+     transform="scale(4.0128205,0.24920128)"
+     id="text48-4"
+     style="font-size:46.95375824px;text-anchor:middle;font-family:Arial" />
+  <text
+     x="540.24829"
+     y="-932.42181"
+     id="text50-2"
+     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="540.24829"
+       y="-932.42181"
+       id="tspan52-3" />
+  </text>
+  <text
+     x="331.70673"
+     y="-4090.8013"
+     transform="scale(4.0128205,0.24920128)"
+     id="text54-1"
+     style="font-size:46.95375824px;text-anchor:middle;font-family:Arial" />
+  <text
+     x="1121.5083"
+     y="-1012.4318"
+     id="text56-8"
+     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="1121.5083"
+       y="-1012.4318"
+       id="tspan58-0" />
+  </text>
+  <text
+     x="476.55603"
+     y="-4411.8398"
+     transform="scale(4.0128205,0.24920128)"
+     id="text60-3"
+     style="font-size:46.95375824px;text-anchor:middle;font-family:Arial" />
+  <text
+     x="-711.29175"
+     y="402.28827"
+     id="text62-2"
+     style="font-size:208.33000183px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="-711.29175"
+       y="402.28827"
+       id="tspan64-3" />
+  </text>
+  <g
+     transform="matrix(6.8098525,0,0,6.8098525,-395.22146,-38.545306)"
+     id="g4082" />
+  <text
+     x="-278.05048"
+     y="63.958809"
+     id="text20-0"
+     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="-278.05048"
+       y="63.958809"
+       id="tspan22-5" />
+  </text>
+  <text
+     x="127.79029"
+     y="-92.492683"
+     transform="scale(4.0128205,0.24920128)"
+     id="text24-0"
+     style="font-size:46.95375824px;text-anchor:middle;font-family:Arial" />
+  <text
+     x="303.21954"
+     y="-16.041189"
+     id="text26-6"
+     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="303.21954"
+       y="-16.041189"
+       id="tspan28-3" />
+  </text>
+  <text
+     x="272.63956"
+     y="-413.53082"
+     transform="scale(4.0128205,0.24920128)"
+     id="text30-6"
+     style="font-size:46.95375824px;text-anchor:middle;font-family:Arial" />
+  <text
+     x="-768.36047"
+     y="-197.30116"
+     id="text32-3"
+     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="-768.36047"
+       y="-197.30116"
+       id="tspan34-0" />
+  </text>
+  <text
+     x="5.6009278"
+     y="-1140.8772"
+     transform="scale(4.0128205,0.24920128)"
+     id="text36-08"
+     style="font-size:46.95375824px;text-anchor:middle;font-family:Arial" />
+  <text
+     x="329.68951"
+     y="-413.77118"
+     id="text38-9"
+     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="329.68951"
+       y="-413.77118"
+       id="tspan40-5" />
+  </text>
+  <text
+     x="279.23953"
+     y="-2009.5529"
+     transform="scale(4.0128205,0.24920128)"
+     id="text42-5"
+     style="font-size:46.95375824px;text-anchor:middle;font-family:Arial" />
+  <text
+     x="910.95953"
+     y="-493.77115"
+     id="text44-85"
+     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="910.95953"
+       y="-493.77115"
+       id="tspan46-5" />
+  </text>
+  <text
+     x="424.08878"
+     y="-2330.5811"
+     transform="scale(4.0128205,0.24920128)"
+     id="text48-41"
+     style="font-size:46.95375824px;text-anchor:middle;font-family:Arial" />
+  <text
+     x="521.83954"
+     y="-966.1712"
+     id="text50-6"
+     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="521.83954"
+       y="-966.1712"
+       id="tspan52-5" />
+  </text>
+  <text
+     x="327.11923"
+     y="-4226.2314"
+     transform="scale(4.0128205,0.24920128)"
+     id="text54-3"
+     style="font-size:46.95375824px;text-anchor:middle;font-family:Arial" />
+  <text
+     x="1103.0995"
+     y="-1046.1812"
+     id="text56-2"
+     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="1103.0995"
+       y="-1046.1812"
+       id="tspan58-7" />
+  </text>
+  <text
+     x="471.96854"
+     y="-4547.27"
+     transform="scale(4.0128205,0.24920128)"
+     id="text60-8"
+     style="font-size:46.95375824px;text-anchor:middle;font-family:Arial" />
+  <text
+     x="-729.7005"
+     y="368.53891"
+     id="text62-3"
+     style="font-size:208.33000183px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="-729.7005"
+       y="368.53891"
+       id="tspan64-5" />
+  </text>
+  <g
+     transform="matrix(6.8098525,0,0,6.8098525,-413.63024,-72.294676)"
+     id="g4082-1" />
+  <rect
+     width="86"
+     height="85"
+     rx="6"
+     ry="6"
+     x="5"
+     y="7"
+     transform="matrix(4.5768213,0,0,4.5768213,-783.32338,-164.90334)"
+     id="rect3745"
+     style="opacity:0.9;fill:url(#linearGradient3381);fill-opacity:1;fill-rule:nonzero;stroke:none;display:none;filter:url(#filter3174)" />
+  <text
+     x="1381.3496"
+     y="-52.868858"
+     id="text20-8"
+     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="1381.3496"
+       y="-52.868858"
+       id="tspan22-6" />
+  </text>
+  <text
+     x="541.31488"
+     y="-561.30115"
+     transform="scale(4.0128205,0.24920128)"
+     id="text24-8"
+     style="font-size:46.95375824px;text-anchor:middle;font-family:Arial" />
+  <text
+     x="1962.6196"
+     y="-132.86887"
+     id="text26-1"
+     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="1962.6196"
+       y="-132.86887"
+       id="tspan28-6" />
+  </text>
+  <text
+     x="686.16418"
+     y="-882.33929"
+     transform="scale(4.0128205,0.24920128)"
+     id="text30-8"
+     style="font-size:46.95375824px;text-anchor:middle;font-family:Arial" />
+  <text
+     x="891.03955"
+     y="-314.12885"
+     id="text32-2"
+     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="891.03955"
+       y="-314.12885"
+       id="tspan34-76" />
+  </text>
+  <text
+     x="419.12555"
+     y="-1609.6857"
+     transform="scale(4.0128205,0.24920128)"
+     id="text36-7"
+     style="font-size:46.95375824px;text-anchor:middle;font-family:Arial" />
+  <text
+     x="1989.0896"
+     y="-530.59882"
+     id="text38-8"
+     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="1989.0896"
+       y="-530.59882"
+       id="tspan40-1" />
+  </text>
+  <text
+     x="692.76416"
+     y="-2478.3613"
+     transform="scale(4.0128205,0.24920128)"
+     id="text42-3"
+     style="font-size:46.95375824px;text-anchor:middle;font-family:Arial" />
+  <text
+     x="2570.3596"
+     y="-610.59882"
+     id="text44-2"
+     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="2570.3596"
+       y="-610.59882"
+       id="tspan46-4" />
+  </text>
+  <text
+     x="837.6134"
+     y="-2799.3896"
+     transform="scale(4.0128205,0.24920128)"
+     id="text48-1"
+     style="font-size:46.95375824px;text-anchor:middle;font-family:Arial" />
+  <text
+     x="2181.2395"
+     y="-1082.9989"
+     id="text50-9"
+     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="2181.2395"
+       y="-1082.9989"
+       id="tspan52-9" />
+  </text>
+  <text
+     x="740.64386"
+     y="-4695.04"
+     transform="scale(4.0128205,0.24920128)"
+     id="text54-36"
+     style="font-size:46.95375824px;text-anchor:middle;font-family:Arial" />
+  <text
+     x="2762.4995"
+     y="-1163.0089"
+     id="text56-89"
+     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="2762.4995"
+       y="-1163.0089"
+       id="tspan58-4" />
+  </text>
+  <text
+     x="885.49316"
+     y="-5016.0781"
+     transform="scale(4.0128205,0.24920128)"
+     id="text60-9"
+     style="font-size:46.95375824px;text-anchor:middle;font-family:Arial" />
+  <text
+     x="929.69952"
+     y="251.71123"
+     id="text62-7"
+     style="font-size:208.33000183px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="929.69952"
+       y="251.71123"
+       id="tspan64-35" />
+  </text>
+  <g
+     transform="matrix(6.8098525,0,0,6.8098525,1245.7698,-189.12235)"
+     id="g4082-8" />
+  <rect
+     width="86"
+     height="85"
+     rx="6"
+     ry="6"
+     x="5"
+     y="7"
+     transform="matrix(4.5768213,0,0,4.5768213,876.07667,-281.73101)"
+     id="rect3745-5"
+     style="opacity:0.9;fill:url(#linearGradient3381-9);fill-opacity:1;fill-rule:nonzero;stroke:none;display:none;filter:url(#filter3174-1)" />
+  <g
+     transform="translate(-12.64659,-848.08595)"
+     id="layer1" />
+  <g
+     transform="matrix(1.1,0,0,0.44444,82.43447,-51.33123)"
+     id="g2036">
+    <g
+       transform="matrix(1.0526,0,0,1.2857,-1.2632,-13.429)"
+       id="g3712"
+       style="opacity:0.4" />
+  </g>
+  <g
+     transform="translate(84.83447,-76.44223)"
+     id="g3541" />
+  <g
+     transform="translate(84.83447,-76.44223)"
+     id="g3536" />
+  <g
+     transform="translate(-618.16595,-661.6921)"
+     id="g4076">
+    <g
+       transform="translate(-926.66758,684.38448)"
+       id="g4038" />
+  </g>
+  <text
+     x="665.13092"
+     y="-23.910044"
+     id="text4"
+     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="665.13092"
+       y="-23.910044"
+       id="tspan6" />
+  </text>
+  <text
+     x="362.83231"
+     y="-445.10577"
+     transform="scale(4.0128205,0.24920128)"
+     id="text8"
+     style="font-size:46.95375824px;text-anchor:middle;font-family:Arial" />
+  <text
+     x="1246.401"
+     y="-103.91003"
+     id="text10"
+     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="1246.401"
+       y="-103.91003"
+       id="tspan12" />
+  </text>
+  <text
+     x="507.68158"
+     y="-766.13416"
+     transform="scale(4.0128205,0.24920128)"
+     id="text14"
+     style="font-size:46.95375824px;text-anchor:middle;font-family:Arial" />
+  <text
+     x="174.82091"
+     y="-285.17102"
+     id="text16"
+     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="174.82091"
+       y="-285.17102"
+       id="tspan18" />
+  </text>
+  <text
+     x="240.64294"
+     y="-1493.4905"
+     transform="scale(4.0128205,0.24920128)"
+     id="text20-1"
+     style="font-size:46.95375824px;text-anchor:middle;font-family:Arial" />
+  <text
+     x="1272.871"
+     y="-501.64001"
+     id="text22"
+     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="1272.871"
+       y="-501.64001"
+       id="tspan24" />
+  </text>
+  <text
+     x="514.28149"
+     y="-2362.156"
+     transform="scale(4.0128205,0.24920128)"
+     id="text26-8-8"
+     style="font-size:46.95375824px;text-anchor:middle;font-family:Arial" />
+  <text
+     x="1854.141"
+     y="-581.65002"
+     id="text28"
+     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="1854.141"
+       y="-581.65002"
+       id="tspan30" />
+  </text>
+  <text
+     x="659.1308"
+     y="-2683.1943"
+     transform="scale(4.0128205,0.24920128)"
+     id="text32-5"
+     style="font-size:46.95375824px;text-anchor:middle;font-family:Arial" />
+  <text
+     x="1465.021"
+     y="-1054.05"
+     id="text34"
+     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="1465.021"
+       y="-1054.05"
+       id="tspan36" />
+  </text>
+  <text
+     x="562.16125"
+     y="-4578.8447"
+     transform="scale(4.0128205,0.24920128)"
+     id="text38-3"
+     style="font-size:46.95375824px;text-anchor:middle;font-family:Arial" />
+  <text
+     x="2046.281"
+     y="-1134.05"
+     id="text40"
+     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="2046.281"
+       y="-1134.05"
+       id="tspan42" />
+  </text>
+  <text
+     x="707.01056"
+     y="-4899.873"
+     transform="scale(4.0128205,0.24920128)"
+     id="text44-5"
+     style="font-size:46.95375824px;text-anchor:middle;font-family:Arial" />
+  <text
+     x="213.48088"
+     y="280.66998"
+     id="text46"
+     style="font-size:208.33000183px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="213.48088"
+       y="280.66998"
+       id="tspan48" />
+  </text>
+  <text
+     x="665.13092"
+     y="-23.910044"
+     id="text66"
+     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="665.13092"
+       y="-23.910044"
+       id="tspan68" />
+  </text>
+  <text
+     x="362.83231"
+     y="-445.10577"
+     transform="scale(4.0128205,0.24920128)"
+     id="text70"
+     style="font-size:46.95375824px;text-anchor:middle;font-family:Arial" />
+  <text
+     x="1246.401"
+     y="-103.91003"
+     id="text72"
+     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="1246.401"
+       y="-103.91003"
+       id="tspan74" />
+  </text>
+  <text
+     x="507.68158"
+     y="-766.13416"
+     transform="scale(4.0128205,0.24920128)"
+     id="text76"
+     style="font-size:46.95375824px;text-anchor:middle;font-family:Arial" />
+  <text
+     x="174.82091"
+     y="-285.17102"
+     id="text78"
+     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="174.82091"
+       y="-285.17102"
+       id="tspan80" />
+  </text>
+  <text
+     x="240.64294"
+     y="-1493.4905"
+     transform="scale(4.0128205,0.24920128)"
+     id="text82"
+     style="font-size:46.95375824px;text-anchor:middle;font-family:Arial" />
+  <text
+     x="1272.871"
+     y="-501.64001"
+     id="text84"
+     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="1272.871"
+       y="-501.64001"
+       id="tspan86" />
+  </text>
+  <text
+     x="514.28149"
+     y="-2362.146"
+     transform="scale(4.0128205,0.24920128)"
+     id="text88"
+     style="font-size:46.95375824px;text-anchor:middle;font-family:Arial" />
+  <text
+     x="1854.141"
+     y="-581.65002"
+     id="text90"
+     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="1854.141"
+       y="-581.65002"
+       id="tspan92" />
+  </text>
+  <text
+     x="659.1308"
+     y="-2683.1843"
+     transform="scale(4.0128205,0.24920128)"
+     id="text94"
+     style="font-size:46.95375824px;text-anchor:middle;font-family:Arial" />
+  <text
+     x="1465.021"
+     y="-1054.05"
+     id="text96"
+     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="1465.021"
+       y="-1054.05"
+       id="tspan98" />
+  </text>
+  <text
+     x="562.16125"
+     y="-4578.8247"
+     transform="scale(4.0128205,0.24920128)"
+     id="text100"
+     style="font-size:46.95375824px;text-anchor:middle;font-family:Arial" />
+  <text
+     x="2046.281"
+     y="-1134.05"
+     id="text102"
+     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="2046.281"
+       y="-1134.05"
+       id="tspan104" />
+  </text>
+  <text
+     x="707.01056"
+     y="-4899.853"
+     transform="scale(4.0128205,0.24920128)"
+     id="text106"
+     style="font-size:46.95375824px;text-anchor:middle;font-family:Arial" />
+  <text
+     x="213.48088"
+     y="280.66998"
+     id="text108"
+     style="font-size:208.33000183px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="213.48088"
+       y="280.66998"
+       id="tspan110" />
+  </text>
+  <text
+     x="-120.8007"
+     y="-2.0512793"
+     id="text18"
+     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="-120.8007"
+       y="-2.0512793"
+       id="tspan20" />
+  </text>
+  <text
+     x="166.97716"
+     y="-357.38052"
+     transform="scale(4.0128205,0.24920128)"
+     id="text22-3"
+     style="font-size:46.95375824px;text-anchor:middle;font-family:Arial" />
+  <text
+     x="460.4693"
+     y="-82.051277"
+     id="text24-6"
+     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="460.4693"
+       y="-82.051277"
+       id="tspan26" />
+  </text>
+  <text
+     x="311.82642"
+     y="-678.41888"
+     transform="scale(4.0128205,0.24920128)"
+     id="text28-9"
+     style="font-size:46.95375824px;text-anchor:middle;font-family:Arial" />
+  <text
+     x="-611.11072"
+     y="-263.31128"
+     id="text30-62"
+     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="-611.11072"
+       y="-263.31128"
+       id="tspan32" />
+  </text>
+  <text
+     x="44.787773"
+     y="-1405.7651"
+     transform="scale(4.0128205,0.24920128)"
+     id="text34-9"
+     style="font-size:46.95375824px;text-anchor:middle;font-family:Arial" />
+  <text
+     x="486.93927"
+     y="-479.78128"
+     id="text36-02"
+     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="486.93927"
+       y="-479.78128"
+       id="tspan38" />
+  </text>
+  <text
+     x="318.42636"
+     y="-2274.4307"
+     transform="scale(4.0128205,0.24920128)"
+     id="text40-5"
+     style="font-size:46.95375824px;text-anchor:middle;font-family:Arial" />
+  <text
+     x="1068.2094"
+     y="-559.78125"
+     id="text42-8"
+     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="1068.2094"
+       y="-559.78125"
+       id="tspan44" />
+  </text>
+  <text
+     x="463.27567"
+     y="-2595.459"
+     transform="scale(4.0128205,0.24920128)"
+     id="text46-0"
+     style="font-size:46.95375824px;text-anchor:middle;font-family:Arial" />
+  <text
+     x="679.08929"
+     y="-1032.1813"
+     id="text48-8"
+     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="679.08929"
+       y="-1032.1813"
+       id="tspan50" />
+  </text>
+  <text
+     x="366.30612"
+     y="-4491.0991"
+     transform="scale(4.0128205,0.24920128)"
+     id="text52"
+     style="font-size:46.95375824px;text-anchor:middle;font-family:Arial" />
+  <text
+     x="1260.3494"
+     y="-1112.1913"
+     id="text54-34"
+     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="1260.3494"
+       y="-1112.1913"
+       id="tspan56" />
+  </text>
+  <text
+     x="511.15543"
+     y="-4812.1377"
+     transform="scale(4.0128205,0.24920128)"
+     id="text58"
+     style="font-size:46.95375824px;text-anchor:middle;font-family:Arial" />
+  <text
+     x="-572.45074"
+     y="302.52872"
+     id="text60-2"
+     style="font-size:208.33000183px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="-572.45074"
+       y="302.52872"
+       id="tspan62" />
+  </text>
+  <text
+     x="-66.349876"
+     y="63.958809"
+     id="text20-6"
+     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="-66.349876"
+       y="63.958809"
+       id="tspan22-1" />
+  </text>
+  <text
+     x="180.54636"
+     y="-92.492683"
+     transform="scale(4.0128205,0.24920128)"
+     id="text24-82"
+     style="font-size:46.95375824px;text-anchor:middle;font-family:Arial" />
+  <text
+     x="514.92017"
+     y="-16.041189"
+     id="text26-86"
+     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="514.92017"
+       y="-16.041189"
+       id="tspan28-7" />
+  </text>
+  <text
+     x="325.39563"
+     y="-413.53082"
+     transform="scale(4.0128205,0.24920128)"
+     id="text30-88"
+     style="font-size:46.95375824px;text-anchor:middle;font-family:Arial" />
+  <text
+     x="-556.65991"
+     y="-197.30116"
+     id="text32-24"
+     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="-556.65991"
+       y="-197.30116"
+       id="tspan34-9" />
+  </text>
+  <text
+     x="58.356991"
+     y="-1140.8772"
+     transform="scale(4.0128205,0.24920128)"
+     id="text36-8"
+     style="font-size:46.95375824px;text-anchor:middle;font-family:Arial" />
+  <text
+     x="541.39014"
+     y="-413.77118"
+     id="text38-81"
+     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="541.39014"
+       y="-413.77118"
+       id="tspan40-9" />
+  </text>
+  <text
+     x="331.99561"
+     y="-2009.5529"
+     transform="scale(4.0128205,0.24920128)"
+     id="text42-08"
+     style="font-size:46.95375824px;text-anchor:middle;font-family:Arial" />
+  <text
+     x="1122.6602"
+     y="-493.77115"
+     id="text44-9"
+     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="1122.6602"
+       y="-493.77115"
+       id="tspan46-2" />
+  </text>
+  <text
+     x="476.84485"
+     y="-2330.5811"
+     transform="scale(4.0128205,0.24920128)"
+     id="text48-7"
+     style="font-size:46.95375824px;text-anchor:middle;font-family:Arial" />
+  <text
+     x="733.54016"
+     y="-966.1712"
+     id="text50-27"
+     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="733.54016"
+       y="-966.1712"
+       id="tspan52-98" />
+  </text>
+  <text
+     x="379.87531"
+     y="-4226.2314"
+     transform="scale(4.0128205,0.24920128)"
+     id="text54-33"
+     style="font-size:46.95375824px;text-anchor:middle;font-family:Arial" />
+  <text
+     x="1314.8002"
+     y="-1046.1812"
+     id="text56-9"
+     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="1314.8002"
+       y="-1046.1812"
+       id="tspan58-5" />
+  </text>
+  <text
+     x="524.72461"
+     y="-4547.27"
+     transform="scale(4.0128205,0.24920128)"
+     id="text60-5"
+     style="font-size:46.95375824px;text-anchor:middle;font-family:Arial" />
+  <text
+     x="-517.99988"
+     y="368.53891"
+     id="text62-0"
+     style="font-size:208.33000183px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="-517.99988"
+       y="368.53891"
+       id="tspan64-4" />
+  </text>
+  <g
+     transform="matrix(6.8098525,0,0,6.8098525,-201.92963,-72.294676)"
+     id="g4082-88" />
+  <rect
+     width="86"
+     height="85"
+     rx="6"
+     ry="6"
+     x="5"
+     y="7"
+     transform="matrix(4.5768213,0,0,4.5768213,-571.62277,-164.90334)"
+     id="rect3745-6"
+     style="opacity:0.9;fill:url(#linearGradient3381-4);fill-opacity:1;fill-rule:nonzero;stroke:none;display:none;filter:url(#filter3174-2)" />
+  <g
+     transform="translate(-1460.346,-731.25828)"
+     id="layer1-6" />
+  <g
+     transform="matrix(1.1,0,0,0.44444,-1365.265,65.49644)"
+     id="g2036-6">
+    <g
+       transform="matrix(1.0526,0,0,1.2857,-1.2632,-13.429)"
+       id="g3712-3"
+       style="opacity:0.4" />
+  </g>
+  <g
+     transform="translate(-1362.865,40.38544)"
+     id="g3541-6" />
+  <g
+     transform="translate(-1362.865,40.38544)"
+     id="g3536-6" />
+  <g
+     transform="translate(-2065.8654,-544.86443)"
+     id="g4076-5">
+    <g
+       transform="translate(-926.66758,684.38448)"
+       id="g4038-0" />
+  </g>
+  <text
+     x="-782.56854"
+     y="92.917625"
+     id="text4-8"
+     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="-782.56854"
+       y="92.917625"
+       id="tspan6-5" />
+  </text>
+  <text
+     x="2.0637624"
+     y="23.702688"
+     transform="scale(4.0128205,0.24920128)"
+     id="text8-9"
+     style="font-size:46.95375824px;text-anchor:middle;font-family:Arial" />
+  <text
+     x="-201.29848"
+     y="12.917642"
+     id="text10-9"
+     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="-201.29848"
+       y="12.917642"
+       id="tspan12-6" />
+  </text>
+  <text
+     x="146.91302"
+     y="-297.32565"
+     transform="scale(4.0128205,0.24920128)"
+     id="text14-1"
+     style="font-size:46.95375824px;text-anchor:middle;font-family:Arial" />
+  <text
+     x="-1272.8785"
+     y="-168.34335"
+     id="text16-7"
+     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="-1272.8785"
+       y="-168.34335"
+       id="tspan18-7" />
+  </text>
+  <text
+     x="-120.12562"
+     y="-1024.682"
+     transform="scale(4.0128205,0.24920128)"
+     id="text20-1-4"
+     style="font-size:46.95375824px;text-anchor:middle;font-family:Arial" />
+  <text
+     x="-174.82851"
+     y="-384.81235"
+     id="text22-4"
+     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="-174.82851"
+       y="-384.81235"
+       id="tspan24-1" />
+  </text>
+  <text
+     x="153.51297"
+     y="-1893.3477"
+     transform="scale(4.0128205,0.24920128)"
+     id="text26-8-3"
+     style="font-size:46.95375824px;text-anchor:middle;font-family:Arial" />
+  <text
+     x="406.4415"
+     y="-464.82236"
+     id="text28-6"
+     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="406.4415"
+       y="-464.82236"
+       id="tspan30-9" />
+  </text>
+  <text
+     x="298.36227"
+     y="-2214.3857"
+     transform="scale(4.0128205,0.24920128)"
+     id="text32-5-8"
+     style="font-size:46.95375824px;text-anchor:middle;font-family:Arial" />
+  <text
+     x="17.321512"
+     y="-937.22241"
+     id="text34-91"
+     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="17.321512"
+       y="-937.22241"
+       id="tspan36-3" />
+  </text>
+  <text
+     x="201.39273"
+     y="-4110.0361"
+     transform="scale(4.0128205,0.24920128)"
+     id="text38-3-5"
+     style="font-size:46.95375824px;text-anchor:middle;font-family:Arial" />
+  <text
+     x="598.58154"
+     y="-1017.2224"
+     id="text40-1"
+     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="598.58154"
+       y="-1017.2224"
+       id="tspan42-9" />
+  </text>
+  <text
+     x="346.242"
+     y="-4431.0645"
+     transform="scale(4.0128205,0.24920128)"
+     id="text44-5-3"
+     style="font-size:46.95375824px;text-anchor:middle;font-family:Arial" />
+  <text
+     x="-1234.2185"
+     y="397.49765"
+     id="text46-1"
+     style="font-size:208.33000183px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="-1234.2185"
+       y="397.49765"
+       id="tspan48-5" />
+  </text>
+  <text
+     x="-782.56854"
+     y="92.917625"
+     id="text66-2"
+     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="-782.56854"
+       y="92.917625"
+       id="tspan68-9" />
+  </text>
+  <text
+     x="2.0637624"
+     y="23.702688"
+     transform="scale(4.0128205,0.24920128)"
+     id="text70-0"
+     style="font-size:46.95375824px;text-anchor:middle;font-family:Arial" />
+  <text
+     x="-201.29848"
+     y="12.917642"
+     id="text72-8"
+     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="-201.29848"
+       y="12.917642"
+       id="tspan74-7" />
+  </text>
+  <text
+     x="146.91302"
+     y="-297.32565"
+     transform="scale(4.0128205,0.24920128)"
+     id="text76-7"
+     style="font-size:46.95375824px;text-anchor:middle;font-family:Arial" />
+  <text
+     x="-1272.8785"
+     y="-168.34335"
+     id="text78-1"
+     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="-1272.8785"
+       y="-168.34335"
+       id="tspan80-5" />
+  </text>
+  <text
+     x="-120.12562"
+     y="-1024.682"
+     transform="scale(4.0128205,0.24920128)"
+     id="text82-5"
+     style="font-size:46.95375824px;text-anchor:middle;font-family:Arial" />
+  <text
+     x="-174.82851"
+     y="-384.81235"
+     id="text84-0"
+     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="-174.82851"
+       y="-384.81235"
+       id="tspan86-4" />
+  </text>
+  <text
+     x="153.51297"
+     y="-1893.3376"
+     transform="scale(4.0128205,0.24920128)"
+     id="text88-1"
+     style="font-size:46.95375824px;text-anchor:middle;font-family:Arial" />
+  <text
+     x="406.4415"
+     y="-464.82236"
+     id="text90-3"
+     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="406.4415"
+       y="-464.82236"
+       id="tspan92-4" />
+  </text>
+  <text
+     x="298.36227"
+     y="-2214.3757"
+     transform="scale(4.0128205,0.24920128)"
+     id="text94-1"
+     style="font-size:46.95375824px;text-anchor:middle;font-family:Arial" />
+  <text
+     x="17.321512"
+     y="-937.22241"
+     id="text96-7"
+     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="17.321512"
+       y="-937.22241"
+       id="tspan98-0" />
+  </text>
+  <text
+     x="201.39273"
+     y="-4110.0161"
+     transform="scale(4.0128205,0.24920128)"
+     id="text100-2"
+     style="font-size:46.95375824px;text-anchor:middle;font-family:Arial" />
+  <text
+     x="598.58154"
+     y="-1017.2224"
+     id="text102-2"
+     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="598.58154"
+       y="-1017.2224"
+       id="tspan104-6" />
+  </text>
+  <text
+     x="346.242"
+     y="-4431.0444"
+     transform="scale(4.0128205,0.24920128)"
+     id="text106-2"
+     style="font-size:46.95375824px;text-anchor:middle;font-family:Arial" />
+  <text
+     x="-1234.2185"
+     y="397.49765"
+     id="text108-0"
+     style="font-size:208.33000183px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="-1234.2185"
+       y="397.49765"
+       id="tspan110-6" />
+  </text>
+  <text
+     x="-86.088806"
+     y="49.122681"
+     id="text20-3"
+     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="-86.088806"
+       y="49.122681"
+       id="tspan22-19" />
+  </text>
+  <text
+     x="175.62738"
+     y="-152.0274"
+     transform="scale(4.0128205,0.24920128)"
+     id="text24-1"
+     style="font-size:46.95375824px;text-anchor:middle;font-family:Arial" />
+  <text
+     x="495.18121"
+     y="-30.877319"
+     id="text26-4"
+     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="495.18121"
+       y="-30.877319"
+       id="tspan28-56" />
+  </text>
+  <text
+     x="320.47665"
+     y="-473.06555"
+     transform="scale(4.0128205,0.24920128)"
+     id="text30-61"
+     style="font-size:46.95375824px;text-anchor:middle;font-family:Arial" />
+  <text
+     x="-576.3988"
+     y="-212.1373"
+     id="text32-9"
+     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="-576.3988"
+       y="-212.1373"
+       id="tspan34-95" />
+  </text>
+  <text
+     x="53.438023"
+     y="-1200.412"
+     transform="scale(4.0128205,0.24920128)"
+     id="text36-09"
+     style="font-size:46.95375824px;text-anchor:middle;font-family:Arial" />
+  <text
+     x="521.65118"
+     y="-428.6073"
+     id="text38-63"
+     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="521.65118"
+       y="-428.6073"
+       id="tspan40-14" />
+  </text>
+  <text
+     x="327.07663"
+     y="-2069.0876"
+     transform="scale(4.0128205,0.24920128)"
+     id="text42-7"
+     style="font-size:46.95375824px;text-anchor:middle;font-family:Arial" />
+  <text
+     x="1102.9213"
+     y="-508.6073"
+     id="text44-20"
+     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="1102.9213"
+       y="-508.6073"
+       id="tspan46-48" />
+  </text>
+  <text
+     x="471.92587"
+     y="-2390.116"
+     transform="scale(4.0128205,0.24920128)"
+     id="text48-5"
+     style="font-size:46.95375824px;text-anchor:middle;font-family:Arial" />
+  <text
+     x="713.80121"
+     y="-981.00732"
+     id="text50-23"
+     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="713.80121"
+       y="-981.00732"
+       id="tspan52-4" />
+  </text>
+  <text
+     x="374.95633"
+     y="-4285.7661"
+     transform="scale(4.0128205,0.24920128)"
+     id="text54-368"
+     style="font-size:46.95375824px;text-anchor:middle;font-family:Arial" />
+  <text
+     x="1295.0613"
+     y="-1061.0173"
+     id="text56-5"
+     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="1295.0613"
+       y="-1061.0173"
+       id="tspan58-01" />
+  </text>
+  <text
+     x="519.80566"
+     y="-4606.8047"
+     transform="scale(4.0128205,0.24920128)"
+     id="text60-4"
+     style="font-size:46.95375824px;text-anchor:middle;font-family:Arial" />
+  <text
+     x="-537.73883"
+     y="353.70276"
+     id="text62-35"
+     style="font-size:208.33000183px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="-537.73883"
+       y="353.70276"
+       id="tspan64-1" />
+  </text>
+  <g
+     transform="matrix(6.8098525,0,0,6.8098525,-221.66856,-87.130806)"
+     id="g4082-11" />
+  <rect
+     width="86"
+     height="85"
+     rx="6"
+     ry="6"
+     x="5"
+     y="7"
+     transform="matrix(4.5768213,0,0,4.5768213,-591.3617,-179.73947)"
+     id="rect3745-3"
+     style="opacity:0.9;fill:url(#linearGradient3381-43);fill-opacity:1;fill-rule:nonzero;stroke:none;display:none;filter:url(#filter3174-11)" />
+  <g
+     transform="translate(-1480.085,-746.09441)"
+     id="layer1-0" />
+  <g
+     transform="matrix(1.1,0,0,0.44444,-1385.0039,50.66031)"
+     id="g2036-3">
+    <g
+       transform="matrix(1.0526,0,0,1.2857,-1.2632,-13.429)"
+       id="g3712-0"
+       style="opacity:0.4" />
+  </g>
+  <g
+     transform="translate(-1382.6039,25.54931)"
+     id="g3541-3" />
+  <g
+     transform="translate(-1382.6039,25.54931)"
+     id="g3536-2" />
+  <g
+     transform="translate(-2085.6043,-559.70056)"
+     id="g4076-6">
+    <g
+       transform="translate(-926.66758,684.38448)"
+       id="g4038-8" />
+  </g>
+  <text
+     x="-802.30743"
+     y="78.081497"
+     id="text4-3"
+     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="-802.30743"
+       y="78.081497"
+       id="tspan6-1" />
+  </text>
+  <text
+     x="-2.8552043"
+     y="-35.832039"
+     transform="scale(4.0128205,0.24920128)"
+     id="text8-7"
+     style="font-size:46.95375824px;text-anchor:middle;font-family:Arial" />
+  <text
+     x="-221.03741"
+     y="-1.9184881"
+     id="text10-7"
+     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="-221.03741"
+       y="-1.9184881"
+       id="tspan12-3" />
+  </text>
+  <text
+     x="141.99405"
+     y="-356.86038"
+     transform="scale(4.0128205,0.24920128)"
+     id="text14-15"
+     style="font-size:46.95375824px;text-anchor:middle;font-family:Arial" />
+  <text
+     x="-1292.6174"
+     y="-183.17949"
+     id="text16-1"
+     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="-1292.6174"
+       y="-183.17949"
+       id="tspan18-5" />
+  </text>
+  <text
+     x="-125.04458"
+     y="-1084.2167"
+     transform="scale(4.0128205,0.24920128)"
+     id="text20-1-1"
+     style="font-size:46.95375824px;text-anchor:middle;font-family:Arial" />
+  <text
+     x="-194.56744"
+     y="-399.6485"
+     id="text22-7"
+     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="-194.56744"
+       y="-399.6485"
+       id="tspan24-0" />
+  </text>
+  <text
+     x="148.59399"
+     y="-1952.8823"
+     transform="scale(4.0128205,0.24920128)"
+     id="text26-8-7"
+     style="font-size:46.95375824px;text-anchor:middle;font-family:Arial" />
+  <text
+     x="386.70258"
+     y="-479.65851"
+     id="text28-5"
+     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="386.70258"
+       y="-479.65851"
+       id="tspan30-5" />
+  </text>
+  <text
+     x="293.4433"
+     y="-2273.9207"
+     transform="scale(4.0128205,0.24920128)"
+     id="text32-5-9"
+     style="font-size:46.95375824px;text-anchor:middle;font-family:Arial" />
+  <text
+     x="-2.4174187"
+     y="-952.05853"
+     id="text34-7"
+     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="-2.4174187"
+       y="-952.05853"
+       id="tspan36-1" />
+  </text>
+  <text
+     x="196.47375"
+     y="-4169.5708"
+     transform="scale(4.0128205,0.24920128)"
+     id="text38-3-2"
+     style="font-size:46.95375824px;text-anchor:middle;font-family:Arial" />
+  <text
+     x="578.84259"
+     y="-1032.0585"
+     id="text40-2"
+     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="578.84259"
+       y="-1032.0585"
+       id="tspan42-5" />
+  </text>
+  <text
+     x="341.32303"
+     y="-4490.5991"
+     transform="scale(4.0128205,0.24920128)"
+     id="text44-5-5"
+     style="font-size:46.95375824px;text-anchor:middle;font-family:Arial" />
+  <text
+     x="-1253.9575"
+     y="382.6615"
+     id="text46-6"
+     style="font-size:208.33000183px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="-1253.9575"
+       y="382.6615"
+       id="tspan48-8" />
+  </text>
+  <text
+     x="-802.30743"
+     y="78.081497"
+     id="text66-8"
+     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="-802.30743"
+       y="78.081497"
+       id="tspan68-90" />
+  </text>
+  <text
+     x="-2.8552043"
+     y="-35.832039"
+     transform="scale(4.0128205,0.24920128)"
+     id="text70-1"
+     style="font-size:46.95375824px;text-anchor:middle;font-family:Arial" />
+  <text
+     x="-221.03741"
+     y="-1.9184881"
+     id="text72-3"
+     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="-221.03741"
+       y="-1.9184881"
+       id="tspan74-71" />
+  </text>
+  <text
+     x="141.99405"
+     y="-356.86038"
+     transform="scale(4.0128205,0.24920128)"
+     id="text76-8"
+     style="font-size:46.95375824px;text-anchor:middle;font-family:Arial" />
+  <text
+     x="-1292.6174"
+     y="-183.17949"
+     id="text78-0"
+     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="-1292.6174"
+       y="-183.17949"
+       id="tspan80-8" />
+  </text>
+  <text
+     x="-125.04458"
+     y="-1084.2167"
+     transform="scale(4.0128205,0.24920128)"
+     id="text82-6"
+     style="font-size:46.95375824px;text-anchor:middle;font-family:Arial" />
+  <text
+     x="-194.56744"
+     y="-399.6485"
+     id="text84-5"
+     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="-194.56744"
+       y="-399.6485"
+       id="tspan86-1" />
+  </text>
+  <text
+     x="148.59399"
+     y="-1952.8723"
+     transform="scale(4.0128205,0.24920128)"
+     id="text88-3"
+     style="font-size:46.95375824px;text-anchor:middle;font-family:Arial" />
+  <text
+     x="386.70258"
+     y="-479.65851"
+     id="text90-6"
+     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="386.70258"
+       y="-479.65851"
+       id="tspan92-6" />
+  </text>
+  <text
+     x="293.4433"
+     y="-2273.9106"
+     transform="scale(4.0128205,0.24920128)"
+     id="text94-4"
+     style="font-size:46.95375824px;text-anchor:middle;font-family:Arial" />
+  <text
+     x="-2.4174187"
+     y="-952.05853"
+     id="text96-5"
+     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="-2.4174187"
+       y="-952.05853"
+       id="tspan98-6" />
+  </text>
+  <text
+     x="196.47375"
+     y="-4169.5508"
+     transform="scale(4.0128205,0.24920128)"
+     id="text100-21"
+     style="font-size:46.95375824px;text-anchor:middle;font-family:Arial" />
+  <text
+     x="578.84259"
+     y="-1032.0585"
+     id="text102-3"
+     style="font-size:129.22999573px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="578.84259"
+       y="-1032.0585"
+       id="tspan104-3" />
+  </text>
+  <text
+     x="341.32303"
+     y="-4490.5791"
+     transform="scale(4.0128205,0.24920128)"
+     id="text106-0"
+     style="font-size:46.95375824px;text-anchor:middle;font-family:Arial" />
+  <text
+     x="-1253.9575"
+     y="382.6615"
+     id="text108-6"
+     style="font-size:208.33000183px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <tspan
+       x="-1253.9575"
+       y="382.6615"
+       id="tspan110-8" />
+  </text>
+  <g
+     clip-path="url(#clipPath11469)"
+     id="g10911"
+     style="opacity:0.25;color:#000000;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate">
+    <path
+       d="m 65.244677,41 c -0.46791,12.699665 -0.19886,25.417476 -0.26996,38.125398 L 453.88345,468.03413 c 0.0711,-12.70792 -0.19795,-25.42574 0.26996,-38.1254 z"
+       inkscape:connector-curvature="0"
+       id="path10913"
+       style="fill:#000000" />
+    <path
+       d="m 64.974717,79.125398 c 19.52283,2.375041 39.079073,4.505319 58.552963,7.259139 L 512.43641,475.29327 c -19.47389,-2.75382 -39.03013,-4.8841 -58.55296,-7.25914 z"
+       inkscape:connector-curvature="0"
+       id="path10915"
+       style="fill:#000000" />
+    <path
+       d="m 123.52768,86.384537 c 0,114.456333 0,228.912693 0,343.369043 l 388.90873,388.90873 c 0,-114.45635 0,-228.91271 0,-343.36904 z"
+       inkscape:connector-curvature="0"
+       id="path10917"
+       style="fill:#000000" />
+    <path
+       d="m 123.52768,429.75358 c -19.35767,0.16001 -38.715343,0.31993 -58.073023,0.47993 L 454.36339,819.14224 c 19.35768,-0.16 38.71535,-0.31992 58.07302,-0.47993 z"
+       inkscape:connector-curvature="0"
+       id="path10919"
+       style="fill:#000000" />
+    <path
+       d="m 65.454657,430.23351 c -0.0789,13.19691 -0.68838,26.40904 -0.06,39.59528 L 454.30339,858.73752 c -0.62838,-13.18624 -0.0189,-26.39837 0.06,-39.59528 z"
+       inkscape:connector-curvature="0"
+       id="path10921"
+       style="fill:#000000" />
+    <path
+       d="m 65.394657,469.82879 c 49.176433,2.24901 98.549953,0.51613 147.813683,0.79306 l 388.90873,388.90873 c -49.26373,-0.27693 -98.63725,1.45595 -147.81368,-0.79306 z"
+       inkscape:connector-curvature="0"
+       id="path10923"
+       style="fill:#000000" />
+    <path
+       d="m 213.20834,470.62185 c 7.70201,-0.0239 15.40395,-0.0489 23.10587,-0.073 l 388.90873,388.90873 c -7.70192,0.0241 -15.40386,0.0491 -23.10587,0.073 z"
+       inkscape:connector-curvature="0"
+       id="path10925"
+       style="fill:#000000" />
+    <path
+       d="m 236.31421,470.54885 c 0.15445,-13.58862 0.32454,-27.17695 0.50999,-40.76518 L 625.73293,818.6924 c -0.18545,13.58823 -0.35554,27.17656 -0.50999,40.76518 z"
+       inkscape:connector-curvature="0"
+       id="path10927"
+       style="fill:#000000" />
+    <path
+       d="m 236.8242,429.78367 c -22.72731,0 -45.4546,0 -68.18192,0 L 557.55101,818.6924 c 22.72732,0 45.45461,0 68.18192,0 z"
+       inkscape:connector-curvature="0"
+       id="path10929"
+       style="fill:#000000" />
+    <path
+       d="m 168.64228,429.78367 c 0,-51.51389 0,-103.02768 0,-154.54155 l 388.90873,388.90873 c 0,51.51387 0,103.02766 0,154.54155 z"
+       inkscape:connector-curvature="0"
+       id="path10931"
+       style="fill:#000000" />
+    <path
+       d="m 168.64228,275.24212 c 23.0173,0 46.03458,0 69.05186,0 l 388.90873,388.90873 c -23.01728,0 -46.03456,0 -69.05186,0 z"
+       inkscape:connector-curvature="0"
+       id="path10933"
+       style="fill:#000000" />
+    <path
+       d="m 237.69414,275.24212 c 43.37368,65.03262 86.28728,130.3773 130.21441,195.03672 L 756.81728,859.18757 C 712.89015,794.52815 669.97655,729.18347 626.60287,664.15085 z"
+       inkscape:connector-curvature="0"
+       id="path10935"
+       style="fill:#000000" />
+    <path
+       d="m 367.90855,470.27884 c 26.3715,0.5716 52.75511,-0.26023 79.13056,-0.45019 l 388.90873,388.90873 c -26.37545,0.18996 -52.75906,1.02179 -79.13056,0.45019 z"
+       inkscape:connector-curvature="0"
+       id="path10937"
+       style="fill:#000000" />
+    <path
+       d="m 447.03911,469.82865 c -0.18585,-13.19823 -0.35584,-26.39666 -0.50999,-39.59528 L 835.43785,819.1421 c 0.15415,13.19862 0.32414,26.39705 0.50999,39.59528 z"
+       inkscape:connector-curvature="0"
+       id="path10939"
+       style="fill:#000000" />
+    <path
+       d="m 446.52912,430.23337 c -17.27813,-0.17431 -34.55607,-0.36427 -51.83382,-0.56997 l 388.90873,388.90873 c 17.27775,0.2057 34.55569,0.39566 51.83382,0.56997 z"
+       inkscape:connector-curvature="0"
+       id="path10941"
+       style="fill:#000000" />
+    <path
+       d="M 394.6953,429.6634 C 358.77169,375.96328 321.90998,322.89342 286.13831,269.09261 l 388.90873,388.90873 c 35.77167,53.80081 72.63338,106.87067 108.55699,160.57079 z"
+       inkscape:connector-curvature="0"
+       id="path10943"
+       style="fill:#000000" />
+    <path
+       d="m 286.13831,269.09261 c 13.09092,-7.3483 29.05179,-11.26579 41.56591,-20.63456 l 388.90873,388.90873 c -12.51412,9.36877 -28.47499,13.28626 -41.56591,20.63456 z"
+       inkscape:connector-curvature="0"
+       id="path10945"
+       style="fill:#000000" />
+    <path
+       d="M 327.70422,248.45805 C 384.3837,213.96773 395.63836,124.46779 348.84557,77.675002 L 737.7543,466.58373 c 46.79279,46.79279 35.53813,136.29273 -21.14135,170.78305 z"
+       inkscape:connector-curvature="0"
+       id="path10947"
+       style="fill:#000000" />
+    <path
+       d="m 348.84557,77.675002 c -1.5757,-1.575704 -3.21723,-3.10298 -4.92506,-4.578097 L 732.82924,462.00563 c 1.70783,1.47512 3.34936,3.0024 4.92506,4.5781 z"
+       inkscape:connector-curvature="0"
+       id="path10949"
+       style="fill:#000000" />
+    <path
+       d="M 343.92051,73.096905 C 311.72921,45.942512 267.74092,39.387361 226.89992,41.722287 L 615.80865,430.63102 c 40.841,-2.33493 84.82929,4.22022 117.02059,31.37461 z"
+       inkscape:connector-curvature="0"
+       id="path10951"
+       style="fill:#000000" />
+    <path
+       d="M 226.89992,41.722287 C 181.09744,43.581381 135.0982,55.19706 89.335717,45.787975 L 478.24445,434.6967 c 45.76248,9.40909 91.76172,-2.20659 137.5642,-4.06568 z"
+       inkscape:connector-curvature="0"
+       id="path10953"
+       style="fill:#000000" />
+    <path
+       d="m 89.335717,45.787975 c -8.10014,-1.234699 -16.07826,-3.106957 -24.09107,-4.787822 L 454.15338,429.90888 c 8.01281,1.68087 15.99093,3.55313 24.09107,4.78782 z"
+       inkscape:connector-curvature="0"
+       id="path10955"
+       style="fill:#000000" />
+    <path
+       d="m 238.26402,81.345125 c 25.72305,-0.65485 55.47643,5.142894 74.00402,23.670485 L 701.17677,493.92434 C 682.64918,475.39675 652.8958,469.599 627.17275,470.25385 z"
+       inkscape:connector-curvature="0"
+       id="path10957"
+       style="fill:#000000" />
+    <path
+       d="m 312.26804,105.01561 c 4.88491,4.88492 8.98947,10.65474 12.03406,17.42452 l 388.90873,388.90873 c -3.04459,-6.76978 -7.14915,-12.53961 -12.03406,-17.42452 z"
+       inkscape:connector-curvature="0"
+       id="path10959"
+       style="fill:#000000" />
+    <path
+       d="m 324.3021,122.44013 c 15.19778,33.34556 5.55343,79.22605 -28.85377,96.58818 l 388.90873,388.90873 c 34.4072,-17.36213 44.05155,-63.24262 28.85377,-96.58818 z"
+       inkscape:connector-curvature="0"
+       id="path10961"
+       style="fill:#000000" />
+    <path
+       d="m 295.44833,219.02831 c -38.25277,22.641 -83.75365,16.26391 -126.22541,17.99056 L 558.13165,625.9276 c 42.47176,-1.72665 87.97264,4.65044 126.22541,-17.99056 z"
+       inkscape:connector-curvature="0"
+       id="path10963"
+       style="fill:#000000" />
+    <path
+       d="m 169.22292,237.01887 c -1.35718,-9.55414 -0.19179,-21.66443 -0.58064,-32.19975 l 388.90873,388.90873 c 0.38885,10.53532 -0.77654,22.64561 0.58064,32.19975 z"
+       inkscape:connector-curvature="0"
+       id="path10965"
+       style="fill:#000000" />
+    <path
+       d="m 168.64228,204.81912 c 0.12661,-39.56744 -0.40842,-79.1556 0.71993,-118.704517 L 558.27094,475.02333 c -1.12835,39.54892 -0.59332,79.13708 -0.71993,118.70452 z"
+       inkscape:connector-curvature="0"
+       id="path10967"
+       style="fill:#000000" />
+    <path
+       d="m 169.36221,86.114603 c 22.8829,-2.543976 45.8731,-4.404808 68.90181,-4.769478 L 627.17275,470.25385 c -23.02871,0.36467 -46.01891,2.22551 -68.90181,4.76948 z"
+       inkscape:connector-curvature="0"
+       id="path10969"
+       style="fill:#000000" />
+  </g>
+  <path
+     d="m 65.244677,41 c -0.46791,12.699665 -0.19886,25.417476 -0.26996,38.125398 19.52283,2.375041 39.079073,4.505319 58.552963,7.259139 0,114.456333 0,228.912693 0,343.369043 -19.35767,0.16001 -38.715343,0.31993 -58.073023,0.47993 -0.0789,13.19691 -0.68838,26.40904 -0.06,39.59528 49.176433,2.24901 98.549953,0.51613 147.813683,0.79306 7.70201,-0.0239 15.40395,-0.0489 23.10587,-0.073 0.15445,-13.58862 0.32454,-27.17695 0.50999,-40.76518 -22.72731,0 -45.4546,0 -68.18192,0 0,-51.51389 0,-103.02768 0,-154.54155 23.0173,0 46.03458,0 69.05186,0 43.37368,65.03262 86.28728,130.3773 130.21441,195.03672 26.3715,0.5716 52.75511,-0.26023 79.13056,-0.45019 -0.18585,-13.19823 -0.35584,-26.39666 -0.50999,-39.59528 -17.27813,-0.17431 -34.55607,-0.36427 -51.83382,-0.56997 -35.92361,-53.70012 -72.78532,-106.76998 -108.55699,-160.57079 13.09092,-7.3483 29.05179,-11.26579 41.56591,-20.63456 C 386.29233,212.8063 396.34483,118.37776 343.92051,73.096905 311.72921,45.942512 267.74092,39.387361 226.89992,41.722287 181.09744,43.581381 135.0982,55.19706 89.335717,45.787975 81.235577,44.553276 73.257457,42.681018 65.244647,41.000153 z M 238.26402,81.345125 c 32.50509,-0.827505 71.44591,8.648664 86.03808,41.095005 15.19778,33.34556 5.55343,79.22605 -28.85377,96.58818 -38.25277,22.641 -83.75365,16.26391 -126.22541,17.99056 -1.35718,-9.55414 -0.19179,-21.66443 -0.58064,-32.19975 0.12661,-39.56744 -0.40842,-79.1556 0.71993,-118.704517 22.8829,-2.543976 45.8731,-4.404808 68.90181,-4.769478 z"
+     inkscape:connector-curvature="0"
+     id="rect7013"
+     style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+</svg>

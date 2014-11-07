@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="100%"
+   height="100%"
+   viewBox="0 0 512 512"
+   id="svg2"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="preferences-system-network.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview104"
+     showgrid="false"
+     inkscape:zoom="0.4609375"
+     inkscape:cx="256"
+     inkscape:cy="256"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <metadata
+     id="metadata3893">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4">
+    <linearGradient
+       y1="0.107"
+       x2="0"
+       y2="512.53998"
+       id="0"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="stop7"
+         style="stop-color:#6a6a6a;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop9"
+         style="stop-color:#000000;stop-opacity:1"
+         offset="0.47" />
+      <stop
+         id="stop11"
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0.49399999" />
+      <stop
+         id="stop13"
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0.90100002" />
+      <stop
+         id="stop15"
+         style="stop-color:#000000;stop-opacity:1"
+         offset="0.95499998" />
+      <stop
+         id="stop17"
+         style="stop-color:#000000;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#0"
+       id="linearGradient3081"
+       gradientUnits="userSpaceOnUse"
+       y1="0.107"
+       x2="0"
+       y2="512.53998"
+       gradientTransform="translate(-71.59322,10.847458)" />
+  </defs>
+  <path
+     d="M 50.25,0 C 22.427,0 0,22.395 0,50.22 V 461.78 C 0,489.603 22.427,512 50.25,512 H 461.78 C 489.603,512 512,489.605 512,461.78 V 50.22 C 512,22.397 489.605,0 461.78,0 H 50.25"
+     inkscape:connector-curvature="0"
+     id="path19"
+     style="fill:none;fill-rule:evenodd" />
+  <g
+     transform="translate(-670.2,-35.838)"
+     id="g63"
+     style="line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic" />
+  <g
+     id="g111"
+     style="line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic" />
+  <g
+     id="g159"
+     style="font-size:208.33000183px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic" />
+  <g
+     id="g225"
+     style="line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic" />
+  <g
+     id="g273"
+     style="line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic" />
+  <g
+     id="g321"
+     style="font-size:208.33000183px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic" />
+  <g
+     transform="translate(-1299.16,-210.35)"
+     id="g393"
+     style="line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic" />
+  <g
+     id="g441"
+     style="line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic" />
+  <g
+     transform="translate(-1299.16,-210.35)"
+     id="g459"
+     style="fill:none" />
+  <g
+     transform="translate(-1299.16,-210.35)"
+     id="g479">
+    <g
+       id="g481" />
+    <g
+       id="g495"
+       style="fill:none">
+      <g
+         id="g497"
+         style="stroke:#cd1d31;stroke-width:23.27300072" />
+    </g>
+    <g
+       id="g517"
+       style="fill:#000000" />
+  </g>
+  <g
+     transform="translate(-1891.43,-479.39)"
+     id="g573"
+     style="line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic" />
+  <g
+     transform="translate(-1299.16,-210.35)"
+     id="g621"
+     style="line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic" />
+  <g
+     transform="translate(-1299.16,-210.35)"
+     id="g669"
+     style="font-size:208.33000183px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic" />
+  <g
+     transform="translate(-1852.38,-939.46)"
+     id="g735"
+     style="line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic" />
+  <g
+     transform="translate(-1852.38,-939.46)"
+     id="g783"
+     style="line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic" />
+  <g
+     transform="translate(-1852.38,-939.46)"
+     id="g831"
+     style="font-size:208.33000183px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic" />
+  <g
+     transform="translate(-1934.82,-954.64)"
+     id="g921"
+     style="line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic" />
+  <g
+     transform="translate(-1934.82,-954.64)"
+     id="g969"
+     style="line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic" />
+  <g
+     transform="translate(-1934.82,-954.64)"
+     id="g1017"
+     style="font-size:208.33000183px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic" />
+  <g
+     transform="translate(-1934.82,-954.64)"
+     id="g1077"
+     style="line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic" />
+  <g
+     transform="translate(-1299.16,-210.35)"
+     id="g1125"
+     style="line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic" />
+  <g
+     transform="translate(-1813.33,-619.07)"
+     id="g1173"
+     style="line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic" />
+  <g
+     transform="translate(-1299.16,-210.35)"
+     id="g1221"
+     style="font-size:208.33000183px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic" />
+  <g
+     transform="translate(-1299.16,-210.35)"
+     id="g1281"
+     style="line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic" />
+  <g
+     id="g1377"
+     style="line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic" />
+  <g
+     id="g1425"
+     style="line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic" />
+  <g
+     id="g1443"
+     style="fill:none" />
+  <g
+     id="g1463"
+     style="fill:#000000" />
+  <g
+     id="g1477"
+     style="fill:none">
+    <g
+       id="g1479"
+       style="stroke:#cd1d31;stroke-width:23.27300072" />
+  </g>
+  <g
+     id="g1499"
+     style="fill:#000000" />
+  <g
+     transform="translate(-592.27,-269.04)"
+     id="g1555"
+     style="line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic" />
+  <g
+     id="g1603"
+     style="line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic" />
+  <g
+     id="g1651"
+     style="font-size:208.33000183px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic" />
+  <g
+     transform="translate(-553.22,-729.11)"
+     id="g1717"
+     style="line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic" />
+  <g
+     transform="translate(-553.22,-729.11)"
+     id="g1765"
+     style="line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic" />
+  <g
+     transform="translate(-553.22,-729.11)"
+     id="g1813"
+     style="font-size:208.33000183px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic" />
+  <g
+     transform="translate(-635.66,-744.29)"
+     id="g1903"
+     style="line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic" />
+  <g
+     transform="translate(-635.66,-744.29)"
+     id="g1951"
+     style="line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic" />
+  <g
+     transform="translate(-635.66,-744.29)"
+     id="g1999"
+     style="font-size:208.33000183px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic" />
+  <g
+     transform="translate(-635.66,-744.29)"
+     id="g2059"
+     style="line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic" />
+  <g
+     id="g2107"
+     style="line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic" />
+  <g
+     transform="translate(-514.17,-408.72)"
+     id="g2155"
+     style="line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic" />
+  <g
+     id="g2203"
+     style="font-size:208.33000183px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic" />
+  <g
+     id="g2263"
+     style="line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic" />
+  <g
+     id="g2311"
+     style="line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic" />
+  <g
+     id="g2359"
+     style="line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic" />
+  <g
+     id="g2407"
+     style="line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic" />
+  <g
+     transform="translate(-605.29,-271.19)"
+     id="g2455"
+     style="font-size:208.33000183px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic" />
+  <g
+     transform="translate(-605.29,-271.19)"
+     id="g2521"
+     style="line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic" />
+  <g
+     transform="translate(-605.29,-271.19)"
+     id="g2569"
+     style="line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic" />
+  <g
+     transform="translate(-605.29,-271.19)"
+     id="g2617"
+     style="font-size:208.33000183px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic" />
+  <g
+     transform="translate(-605.29,-271.19)"
+     id="g2689"
+     style="line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic" />
+  <g
+     id="g2737"
+     style="line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic" />
+  <g
+     transform="translate(-605.29,-271.19)"
+     id="g2755"
+     style="fill:none" />
+  <g
+     transform="translate(-605.29,-271.19)"
+     id="g2775">
+    <g
+       id="g2777" />
+    <g
+       id="g2791"
+       style="fill:none">
+      <g
+         id="g2793"
+         style="stroke:#cd1d31;stroke-width:23.25499916" />
+    </g>
+    <g
+       id="g2813"
+       style="fill:#000000" />
+  </g>
+  <g
+     transform="translate(-605.29,-271.19)"
+     id="g2875"
+     style="line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic" />
+  <g
+     id="g2929"
+     style="font-size:208.33000183px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic" />
+  <g
+     transform="translate(-557.56,-733.52)"
+     id="g2989"
+     style="line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic" />
+  <g
+     id="g3037"
+     style="line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic" />
+  <g
+     id="g3085"
+     style="line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic" />
+  <g
+     id="g3133"
+     style="line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic" />
+  <g
+     id="g3151"
+     style="fill:none" />
+  <g
+     id="g3171"
+     style="fill:#000000" />
+  <g
+     id="g3185"
+     style="fill:none">
+    <g
+       id="g3187"
+       style="stroke:#cd1d31;stroke-width:23.25499916" />
+  </g>
+  <g
+     id="g3207"
+     style="fill:#000000" />
+  <g
+     id="g3269"
+     style="line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic" />
+  <g
+     id="g3329"
+     style="line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic" />
+  <g
+     id="g3377"
+     style="font-size:208.33000183px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic" />
+  <g
+     id="g3437"
+     style="line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic" />
+  <g
+     id="g3485"
+     style="font-size:208.33000183px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic" />
+  <g
+     id="g3545"
+     style="line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic" />
+  <g
+     id="g3593"
+     style="line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic" />
+  <g
+     id="g3641"
+     style="line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic" />
+  <g
+     id="g3689"
+     style="line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic" />
+  <g
+     id="g3737"
+     style="line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic" />
+  <g
+     id="g3785"
+     style="line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic" />
+  <g
+     id="g3833"
+     style="line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic" />
+  <g
+     id="g3885"
+     style="fill-rule:evenodd">
+    <path
+       d="m 188.44,101.72 c -6.974,0 -12.594,6.309 -12.594,14.156 v 80.69 c 0,4.225 1.63,8.01 4.219,10.594 l 47.09,47.09 H 75.875 v 22.344 10.25 28.969 l 22.313,22.313 H 53.625 C 46.651,338.126 41,344.435 41,352.282 v 43.844 c 0,4.216 1.631,8.01 4.219,10.594 L 150.499,512 h 311.28 c 27.823,0 50.22,-22.394 50.22,-50.22 v -176.5 l -180,-180 c -2.229,-2.229 -5.179,-3.563 -8.406,-3.563 h -135.16"
+       inkscape:connector-curvature="0"
+       id="path3887"
+       style="opacity:0.0" />
+    <path
+       d="m 188.43,101.71 c -6.974,0 -12.583,6.309 -12.583,14.156 v 80.69 c 0,7.848 5.606,14.156 12.583,14.156 h 135.16 c 6.974,0 12.614,-6.309 12.614,-14.156 v -80.69 c 0,-7.848 -5.64,-14.156 -12.614,-14.156 H 188.43 m 51.964,128.56 v 23.99 H 75.864 v 22.334 10.263 28.969 h 30.369 v -28.969 h 134.16 v 31.01 h 30.369 v -31.01 h 133.67 v 31.63 h 30.369 v -31.63 -7.483 -25.11 h -164.05 v -23.99 h -30.369 m -186.78,107.85 c -6.974,0 -12.614,6.309 -12.614,14.156 v 43.858 c 0,7.848 5.64,14.156 12.614,14.156 h 80.17 c 6.974,0 12.583,-6.309 12.583,-14.156 V 352.28 c 0,-7.848 -5.606,-14.156 -12.583,-14.156 h -80.17 m 160.79,0 c -6.974,0 -12.583,6.309 -12.583,14.156 v 43.858 c 0,7.848 5.606,14.156 12.583,14.156 h 80.17 c 6.974,0 12.614,-6.309 12.614,-14.156 V 352.28 c 0,-7.848 -5.64,-14.156 -12.614,-14.156 h -80.17 m 163.81,0 c -6.974,0 -12.583,6.309 -12.583,14.156 v 43.858 c 0,7.848 5.606,14.156 12.583,14.156 h 80.21 c 6.974,0 12.583,-6.309 12.583,-14.156 V 352.28 c 0,-7.848 -5.606,-14.156 -12.583,-14.156 h -80.21"
+       inkscape:connector-curvature="0"
+       id="path3889"
+       style="fill:#ffffff" />
+  </g>
+</svg>

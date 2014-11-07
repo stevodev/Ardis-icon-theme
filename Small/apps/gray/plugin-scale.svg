@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="100%"
+   height="100%"
+   viewBox="0 0 512 512"
+   id="svg2">
+  <metadata
+     id="metadata60">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs58" />
+  <path
+     d="M 26,0 C 11.603,0 0,11.603 0,26 v 460 c 0,14.397 11.603,26 26,26 h 460 c 14.397,0 26,-11.603 26,-26 V 26 C 512,11.603 500.397,0 486,0 H 26"
+     inkscape:connector-curvature="0"
+     id="path4"
+     style="fill:none" />
+  <path
+     d="m 290,59.41 c -7.75,0 -13.969,6.25 -13.969,14 v 128.75 c 0,3.875 1.54,7.353 4.063,9.875 l 86.28,86.28 h -3.75 l -169.03,-169.03 c -2.522,-2.522 -6.03,-4.063 -9.906,-4.063 H 54.968 c -7.75,0 -13.969,6.218 -13.969,13.969 v 108.41 c 0,3.875 1.54,7.353 4.063,9.875 l 150.47,150.47 v 30.688 c 0,3.864 1.573,7.354 4.094,9.875 l 63.5,63.5 h 222.88 c 14.397,0 26,-11.603 26,-26 v -377.41 l -45.09,-45.09 c -2.534,-2.534 -6.03,-4.094 -9.906,-4.094 h -167"
+     inkscape:connector-curvature="0"
+     id="path52"
+     style="opacity:0.0" />
+  <path
+     d="m 289.98,59.41 c -7.75,0 -13.965,6.259 -13.965,14.01 v 128.73 c 0,7.75 6.215,13.965 13.965,13.965 h 167.01 c 7.75,0 14.01,-6.215 14.01,-13.965 V 73.42 c 0,-7.75 -6.259,-14.01 -14.01,-14.01 H 289.98 M 54.96,125.214 c -7.75,0 -13.965,6.215 -13.965,13.965 v 108.41 c 0,7.75 6.215,13.965 13.965,13.965 h 128.73 c 7.75,0 13.965,-6.215 13.965,-13.965 v -108.41 c 0,-7.75 -6.215,-13.965 -13.965,-13.965 H 54.96 m 154.59,173.1 c -7.75,0 -14.01,6.215 -14.01,13.965 v 126.35 c 0,7.75 6.259,13.965 14.01,13.965 h 183.76 c 7.75,0 14.01,-6.215 14.01,-13.965 v -126.35 c 0,-7.75 -6.259,-13.965 -14.01,-13.965 H 209.55"
+     inkscape:connector-curvature="0"
+     id="path54"
+     style="fill:#666666" />
+</svg>

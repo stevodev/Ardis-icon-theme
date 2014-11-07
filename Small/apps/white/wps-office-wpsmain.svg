@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="100%"
+   height="100%"
+   viewBox="0 0 512 512"
+   id="svg2">
+  <metadata
+     id="metadata103">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4">
+    <clipPath
+       id="0">
+      <path
+         d="M 26,0 C 11.603,0 0,11.603 0,26 v 460 c 0,14.397 11.603,26 26,26 h 460 c 14.397,0 26,-11.603 26,-26 V 26 C 512,11.603 500.397,0 486,0 H 26"
+         inkscape:connector-curvature="0"
+         id="path7" />
+    </clipPath>
+  </defs>
+  <path
+     d="M 26,0 C 11.603,0 0,11.603 0,26 v 460 c 0,14.397 11.603,26 26,26 h 460 c 14.397,0 26,-11.603 26,-26 V 26 C 512,11.603 500.397,0 486,0 H 26"
+     inkscape:connector-curvature="0"
+     id="path9"
+     style="fill:none" />
+  <g
+     clip-path="url(#0)"
+     id="g63"
+     style="opacity:0.0">
+    <path
+       d="m 59.669,41.01 v 429.95 l 353.55,353.55 V 394.56 z"
+       inkscape:connector-curvature="0"
+       id="path65" />
+    <path
+       d="m 59.669,470.96 h 99.22 l 353.55,353.55 h -99.22 z"
+       inkscape:connector-curvature="0"
+       id="path67" />
+    <path
+       d="m 158.89,470.96 v -0.432 l 353.55,353.55 v 0.432 z"
+       inkscape:connector-curvature="0"
+       id="path69" />
+    <path
+       d="m 158.89,470.52 97.01,-91.83 353.55,353.55 -97.01,91.83 z"
+       inkscape:connector-curvature="0"
+       id="path71" />
+    <path
+       d="m 255.9,378.69 97.22,92.04 353.55,353.55 -97.22,-92.04 z"
+       inkscape:connector-curvature="0"
+       id="path73" />
+    <path
+       d="m 353.12,470.73 v 0.216 l 353.55,353.55 v -0.216 z"
+       inkscape:connector-curvature="0"
+       id="path75" />
+    <path
+       d="m 353.12,470.95 h 0.216 l 353.55,353.55 h -0.216 z"
+       inkscape:connector-curvature="0"
+       id="path77" />
+    <path
+       d="m 353.34,470.95 0.053,0.053 353.55,353.55 -0.053,-0.053 z"
+       inkscape:connector-curvature="0"
+       id="path79" />
+    <path
+       d="m 353.39,471 0.053,-0.053 353.55,353.55 -0.053,0.053 z"
+       inkscape:connector-curvature="0"
+       id="path81" />
+    <path
+       d="m 353.44,470.95 h 98.89 L 805.88,824.5 h -98.89 z"
+       inkscape:connector-curvature="0"
+       id="path83" />
+    <path
+       d="M 452.34,470.95 V 41 L 805.89,394.55 V 824.5 z"
+       inkscape:connector-curvature="0"
+       id="path85" />
+    <path
+       d="m 452.34,41 h -99.22 l 353.55,353.55 h 99.22 z"
+       inkscape:connector-curvature="0"
+       id="path87" />
+    <path
+       d="M 353.11,41 V 336.61 L 706.66,690.16 V 394.55 z"
+       inkscape:connector-curvature="0"
+       id="path89" />
+    <path
+       d="m 353.11,336.61 -97.22,-93.77 353.55,353.55 97.22,93.77 z"
+       inkscape:connector-curvature="0"
+       id="path91" />
+    <path
+       d="m 255.9,242.84 -97.01,92.32 353.55,353.55 97.01,-92.32 z"
+       inkscape:connector-curvature="0"
+       id="path93" />
+    <path
+       d="M 158.89,335.16 V 41.02 l 353.55,353.55 v 294.14 z"
+       inkscape:connector-curvature="0"
+       id="path95" />
+    <path
+       d="M 158.89,41.02 H 59.67 l 353.55,353.55 h 99.22 z"
+       inkscape:connector-curvature="0"
+       id="path97" />
+  </g>
+  <path
+     d="m 59.669,41.01 v 429.95 h 99.22 v -0.432 l 97.01,-91.83 97.22,92.04 v 0.216 h 0.216 l 0.053,0.053 0.053,-0.053 h 98.89 V 41.004 h -99.22 v 295.61 l -97.22,-93.77 -97.01,92.32 V 41.024 h -99.22"
+     inkscape:connector-curvature="0"
+     id="path99"
+     style="fill:#ffffff" />
+</svg>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="100%"
+   height="100%"
+   viewBox="0 0 512 512"
+   id="svg2">
+  <metadata
+     id="metadata50">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs48" />
+  <rect
+     width="512"
+     height="512"
+     rx="25.988001"
+     x="0"
+     y="0"
+     id="rect4"
+     style="fill:#9a3034" />
+  <path
+     d="m 323.56,97.91 v 93.75 l -57.62,-57.62 h -46.5 l -6.938,36.13 -36.12,-36.12 h -47.34 l -12.969,68.969 h -59.5 v 45.22 l 42.813,42.813 -1.5,7.344 H 41.011 v 44.563 l 41.06,41.06 -5.375,30.09 97.91,97.91 h 311.41 c 14.397,0 26,-11.603 26,-26 v -347.09 l -41,-41 h -147.44"
+     inkscape:connector-curvature="0"
+     id="path6"
+     style="opacity:0.25;fill-rule:evenodd" />
+  <g
+     transform="translate(-553.61,1.346)"
+     id="g8"
+     style="font-size:208.33000183px;line-height:125%;letter-spacing:0;word-spacing:0;font-family:Gentium Book Basic">
+    <text
+       x="261.57001"
+       y="89.279999"
+       id="text10">
+      <tspan
+         x="261.57001"
+         y="89.279999"
+         id="tspan12" />
+    </text>
+    <text
+       x="-2097.26"
+       y="367.39999"
+       id="text14">
+      <tspan
+         x="-2097.26"
+         y="367.39999"
+         id="tspan16" />
+    </text>
+    <text
+       x="-1809.05"
+       y="140.11"
+       id="text18">
+      <tspan
+         x="-1809.05"
+         y="140.11"
+         id="tspan20" />
+    </text>
+    <text
+       x="2385.55"
+       y="-116.79"
+       id="text22">
+      <tspan
+         x="2385.55"
+         y="-116.79"
+         id="tspan24" />
+    </text>
+    <text
+       x="257.62"
+       y="28.25"
+       id="text26">
+      <tspan
+         x="257.62"
+         y="28.25"
+         id="tspan28" />
+    </text>
+    <text
+       x="-2101.21"
+       y="306.35999"
+       id="text30">
+      <tspan
+         x="-2101.21"
+         y="306.35999"
+         id="tspan32" />
+    </text>
+    <text
+       x="-1812.99"
+       y="79.080002"
+       id="text34">
+      <tspan
+         x="-1812.99"
+         y="79.080002"
+         id="tspan36" />
+    </text>
+  </g>
+  <g
+     transform="matrix(1.37475,0,0,1.37475,-87.49,-95.94)"
+     id="g38"
+     style="fill:#ffffff">
+    <path
+       d="M 299.01,141 H 406.25 V 371 H 299.01 z"
+       inkscape:connector-curvature="0"
+       id="path40"
+       style="fill-opacity:0.43500001;fill-rule:evenodd" />
+    <text
+       x="188.33"
+       y="371"
+       id="text42"
+       style="font-size:322.19000244px;font-weight:bold;text-align:center;line-height:125%;letter-spacing:0;word-spacing:0;text-anchor:middle;font-family:Sans">
+      <tspan
+         x="188.33"
+         y="371"
+         id="tspan44"
+         style="fill:#ffffff">#</tspan>
+    </text>
+  </g>
+</svg>
